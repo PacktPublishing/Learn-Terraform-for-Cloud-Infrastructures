@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-terraform-for-cloud-infrastructures-video/9781838982959)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn Terraform for Cloud Infrastructures [Video]
 This is the code repository for [Learn Terraform for Cloud Infrastructures [Video]](https://www.packtpub.com/cloud-networking/learn-terraform-for-cloud-infrastructures-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
