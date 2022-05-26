@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V15131)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Learn Terraform for Cloud Infrastructures [Video]
 This is the code repository for [Learn Terraform for Cloud Infrastructures [Video]](https://www.packtpub.com/cloud-networking/learn-terraform-for-cloud-infrastructures-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
